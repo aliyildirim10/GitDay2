@@ -11,4 +11,8 @@ public class HomePage {
     // more things for homepage
 
     //logo created
+
+    // add more things
+
+    // homepage finished
 }
