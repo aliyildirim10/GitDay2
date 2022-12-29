@@ -5,4 +5,7 @@ public class Cart {
     //promo code
     //discounts
 
+    //deals
+    //new changes
+
 }
